@@ -13,7 +13,7 @@ import colorsys
 from dataclasses import dataclass
 
 
-@dataclass
+@dataclass 
 class Palette:
     background: str
     primary: str
