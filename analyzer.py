@@ -15,7 +15,7 @@ import hashlib
 from dataclasses import dataclass, field
 
  
-@dataclass
+@dataclass 
 class CodeSignature:
     file_name: str
     line_count: int = 0
