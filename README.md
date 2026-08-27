@@ -1,4 +1,5 @@
-# codeart
+# machi 
+codeart
 
 Turn a Python file into generative art. No neural net, no API calls —
 just your code's own shape (functions, loops, branches, nesting) mapped
