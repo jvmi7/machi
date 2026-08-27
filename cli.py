@@ -14,7 +14,7 @@ and layout are all derived from that file's structure.
 """
 
 import argparse
-import os
+import os 
 import sys
 
 from analyzer import analyze_file
