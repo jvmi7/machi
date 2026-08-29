@@ -8,7 +8,7 @@ Mapping, roughly:
   - one ring per function, sized by that function's line count
   - one spiral arm per loop
   - one branch per if/branch, radiating outward
-  - nesting depth controls how tightly everything is packed toward
+  - nesting depth controls how tightly everything is packed toward 
     the center
   - import count seeds a scatter of small background dots
 
