@@ -16,7 +16,7 @@ def circle(cx, cy, r, fill, opacity=1.0, stroke=None, stroke_width=0):
         f'<circle cx="{cx:.2f}" cy="{cy:.2f}" r="{r:.2f}" '
         f'fill="{fill}" opacity="{opacity:.2f}"{stroke_attr} />'
     )
-
+ 
 
 def line(x1, y1, x2, y2, stroke, width=1.0, opacity=1.0):
     return (
