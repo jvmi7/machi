@@ -7,7 +7,7 @@ Same source file -> same palette, always (it's seeded off the sha256
 digest of the source, not off randomness). Different code -> a
 genuinely different palette, because the seed and the structural
 numbers both feed the hue math.
-"""
+""" 
 
 import colorsys
 from dataclasses import dataclass
