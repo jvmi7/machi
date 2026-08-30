@@ -14,7 +14,7 @@ Mapping, roughly:
 
 Nothing here is random per-run: every number is derived from the
 signature's digest, so re-running on the same file reproduces the
-same picture, and small code changes produce visibly different (but
+same picture, and small code changes produce visibly different (but 
 not wildly different) art.
 """
 
