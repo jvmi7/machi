@@ -7,7 +7,7 @@ onto an SVG canvas.
 Same file in -> same art out, every time. Change the code, change the art.
 
 ```
-python cli.py your_file.py --html
+python cli.py your_file.py --html 
 ```
 
 That writes `your_file.svg` (and `your_file.html` if you open it in a
