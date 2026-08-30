@@ -7,7 +7,7 @@ Keeping this separate means generator.py reads like a recipe instead
 of a wall of string formatting.
 """
 
-import math
+import math 
 
 
 def circle(cx, cy, r, fill, opacity=1.0, stroke=None, stroke_width=0):
